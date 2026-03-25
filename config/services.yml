@@ -1,0 +1,8 @@
+services:
+  rbm.visitas.listener:
+    class: rbm\visitas\event\main_listener
+    arguments:
+      - '@template'
+      - '@dbal.conn'
+    tags:
+      - { name: event.listener }

@@ -1,0 +1,16 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Composer
+composer.lock
+vendor/
+
+# phpBB
+cache/
+files/
+store/
