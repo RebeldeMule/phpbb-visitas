@@ -3,7 +3,7 @@
     "type": "phpbb-extension",
     "description": "Muestra el número de visitas que tiene un tema.",
     "homepage": "https://www.rebeldemule.org/",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "time": "2026-03-25",
     "license": "GPL-2.0-only",
     "authors": [
